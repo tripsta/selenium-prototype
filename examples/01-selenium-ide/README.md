@@ -6,9 +6,14 @@ Documentation can be found [here] [2] and installation instructions [here] [3]. 
 This folder contains a test-suite file that can be opened by Selenium IDE plugin.
 
 
-To run: from firefox go to tools -> Selenium IDE  
+# Run the suite
+
+To run: from firefox go to tools -> Selenium IDE
+
 In the ide: File->Open->test-suite
+
 Then: Play entire test suite
+
 
 [1]: http://docs.seleniumhq.org/projects/ide/ "Selenium IDE"
 [2]: http://docs.seleniumhq.org/docs/02_selenium_ide.jsp "Documentation of Selenium IDE"

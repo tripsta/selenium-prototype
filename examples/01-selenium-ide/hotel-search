@@ -23,6 +23,11 @@
 </tr>
 <tr>
 	<td>type</td>
+	<td>id=destinationInput</td>
+	<td>Berlin, Deutschland</td>
+</tr>
+<tr>
+	<td>type</td>
 	<td>id=checkin</td>
 	<td>27.08.2013</td>
 </tr>
@@ -32,9 +37,9 @@
 	<td>31.08.2013</td>
 </tr>
 <tr>
-	<td>click</td>
+	<td>type</td>
 	<td>id=Room-0-AdultsNum</td>
-	<td></td>
+	<td>2</td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
@@ -46,7 +51,6 @@
 	<td></td>
 	<td>Best Western Kanthotel</td>
 </tr>
-
 </tbody></table>
 </body>
 </html>
