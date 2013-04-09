@@ -1,6 +1,7 @@
 # Selenium IDE
 
 [Selenium IDE] [1] is a Firefox Extension that allows the creation of functional tests without any programming knowledge.
+
 Documentation can be found [here] [2] and installation instructions [here] [3]. At the time of this writing the latest release is [1.10.0] [4]
 
 This folder contains a test-suite file that can be opened by Selenium IDE plugin.

@@ -9,6 +9,7 @@ Install python selenium
 
 # Validate installation
 `python search-for-cheese.py`
+
 This [example] [1] should load firefox and then search in Google for 'Cheese!'
 
 # Run the suite
