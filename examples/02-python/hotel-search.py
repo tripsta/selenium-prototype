@@ -34,7 +34,7 @@ except:
 	assert 0, 'Hotel Results never loaded'
 
 try:
-	total_price = driver.find_element_by_css_selector("span.total-price")
+	total_price = driver.find_element_by_css_selector("div.hotel-price")
 except NoSuchElementException:
 	driver.quit()
 	assert 0, 'No element with price'

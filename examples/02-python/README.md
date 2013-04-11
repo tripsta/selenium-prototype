@@ -20,4 +20,10 @@ Run the following commands
 `python hotel-search.py`
 
 
+
+# TODO
+
+* wait for ajax request before checking for the div.hotel-price
+* hardcoded dates
+
 [1]: http://docs.seleniumhq.org/docs/03_webdriver.jsp#introducing-the-selenium-webdriver-api-by-example "Sample Search For Cheese"
